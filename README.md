@@ -11,8 +11,3 @@ You can try the game from this link
 * [VSCode](https://code.visualstudio.com/) - Code Editor
 * [React](https://beta.reactjs.org/) - Javascript frontend library
 * [SASS](https://sass-lang.com/) - CSS Preprocessor
-
-## Authors 🖋
-
-* **Mónica Ilenia Tardón Vera** [monicatvera](https://github.com/monicatvera)
-
